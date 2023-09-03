@@ -3,7 +3,7 @@ import base64
 import pprint
 import os.path
 
-api_key = {'x-apikey': '60f1ca94bb96eafc3b3bf0b4a80820c2e434c788e629d5bdf720ba34b5d6fea9'}
+api_key = {'x-apikey': ''}
 api_version = 3
 
 base_url = 'https://www.virustotal.com/api/v3'
